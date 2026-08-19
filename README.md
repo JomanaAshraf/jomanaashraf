@@ -12,7 +12,7 @@ Currently open to Computer Vision Engineer and Robotics Engineer roles.
 
 ## 🔗 Links
 
-- 🌐 Website: [jomanaashraf.github.io](https://jomanaashraf.github.io/) *(in progress)*
+- 🌐 Website: [jomanaashraf.github.io](https://jomanaashraf.github.io/)
 - 💼 LinkedIn: [linkedin.com/in/jomanaashraf](https://www.linkedin.com/in/jomanaashraf/)
 - 📧 Email: jomanaashraf8@gmail.com
 
